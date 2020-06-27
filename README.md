@@ -1,2 +1,2 @@
-# Ola Mundo
- Primeiro repositório do curso de lógica de programação
+# Olá, mundo!
+ Primeiro repositório do curso de lógica de programação.
